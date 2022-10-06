@@ -72,6 +72,7 @@ class Calculator
 public class CarpetCostCalculator {
     public static void main(String args[])
     {
+ 
         Scanner sc = new Scanner(System.in);
         //Scanner class for taking the inputs.
         System.out.println("Enter the length and width of carpet : ");
