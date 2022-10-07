@@ -87,5 +87,7 @@ public class CarpetCostCalculator {
         Calculator calculator = new Calculator(floor, carpet);
         System.out.println("The total cost of the carpet is " + calculator.getTotalCost() + " rupees");
         //printing the total cost.
+        
+        
     }
 }
