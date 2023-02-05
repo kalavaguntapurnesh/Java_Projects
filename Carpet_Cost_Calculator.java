@@ -85,7 +85,7 @@ public class CarpetCostCalculator {
         double cos = sc.nextDouble();
         Carpet carpet = new Carpet(cos);
         Calculator calculator = new Calculator(floor, carpet);
-        System.out.println("The total cost of the carpet is " + calculator.getTotalCost() + " rupees");
+        System.out.println("The total cost of carpet is " + calculator.getTotalCost() + " rupees");
         //printing the total cost.
         
         
